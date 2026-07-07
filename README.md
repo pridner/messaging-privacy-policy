@@ -38,3 +38,7 @@ We do not sell, rent, transfer, or share consumer data, including phone numbers 
 
 Safeguards for Consumer Data
 We maintain administrative, technical, and physical safeguards designed to protect consumer data from unauthorized access, use, disclosure, or sharing. These safeguards are intended to help prevent unauthorized sharing of phone numbers, SMS opt-in data, and other personal information.
+
+
+Phone Numbers and SMS Opt-In Data 
+Phone numbers and SMS opt-in data will not be transferred to any external organization under any circumstances, except when required by law.
