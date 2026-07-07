@@ -31,4 +31,10 @@ Updates
 We may periodically update this privacy policy. If we make material changes that have a substantive and adverse impact on your privacy, we will provide notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information about our privacy practices. 
 How to Contact Us  
 You can reach us by texting the word HELP for support to 931-723-8088. You may also contact us directly at office@servpro11245.com. 
- 
+<p>If you have questions about our SMS program, privacy practices, or your messaging preferences, please contact us directly through the contact information provided on this website.
+
+Use and Sharing of Consumer Data
+We do not sell, rent, transfer, or share consumer data, including phone numbers and SMS opt-in data, with external organizations for marketing or promotional purposes. Your data will not be transferred to external organizations except where strictly necessary to provide the requested service or where required by law.
+
+Safeguards for Consumer Data
+We maintain administrative, technical, and physical safeguards designed to protect consumer data from unauthorized access, use, disclosure, or sharing. These safeguards are intended to help prevent unauthorized sharing of phone numbers, SMS opt-in data, and other personal information.
