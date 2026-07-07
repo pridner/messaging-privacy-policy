@@ -25,6 +25,14 @@ To Whom We Disclose Your Information
 We may disclose your information to our affiliated companies; to third party service providers, business advisors, or consultants who provide services to us; in connection with a merger, acquisition, reorganization, restructuring, financing transaction or sale of assets; as required by law or administrative order; to assert claims or rights or to defend against claims; and on social media platforms. 
 We do not share your personal information, phone number, or SMS consent opt-in data with third parties or affiliates for marketing or promotional purposes. 
 Protection of Information 
+Questions and Contact Information
+If you have any questions about this Privacy Policy or the SMS program, you may contact us using the contact information provided on this website. You may also request assistance by replying HELP to any SMS message.
+
+Use and Sharing of Consumer Data
+Consumer data is used only for permitted operational purposes related to providing our services and supporting the SMS program.</p>
+Your data will not be transferred to external organizations.
+  We do not sell consumer data.
+  We do not share consumer data beyond strictly necessary service providers acting on our behalf for operational purposes.
 We take steps to protect your information against unauthorized use or disclosure.  
 Updates 
 We may periodically update this privacy policy. If we make material changes that have a substantive and adverse impact on your privacy, we will provide notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information about our privacy practices. 
