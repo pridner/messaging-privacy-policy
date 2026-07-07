@@ -20,7 +20,7 @@ We use your information to:
 •	Choices and Controls 
 •	To operate our business  
 •	To communicate with insurance
-You can opt out of receiving SMS messages at any time by replying STOP to any message we send you. You can review our Terms [link to the Terms] for additional information about the opt-out process. 
+You can opt out of receiving SMS messages at any time by replying STOP to any message we send you. You can review our Terms (https://github.com/pridner/Terms-and-conditions/blob/main/README.md) for additional information about the opt-out process. 
 To Whom We Disclose Your Information 
 We may disclose your information to our affiliated companies; to third party service providers, business advisors, or consultants who provide services to us; in connection with a merger, acquisition, reorganization, restructuring, financing transaction or sale of assets; as required by law or administrative order; to assert claims or rights or to defend against claims; and on social media platforms. 
 We do not share your personal information, phone number, or SMS consent opt-in data with third parties or affiliates for marketing or promotional purposes. 
